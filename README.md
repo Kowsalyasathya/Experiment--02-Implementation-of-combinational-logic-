@@ -41,7 +41,7 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 */
-## RTL realization
+## RTL realization:
 ## Output:
 ## RTL:
 ![image](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/921fee7e-c452-49db-a034-3b5731ac6666)
