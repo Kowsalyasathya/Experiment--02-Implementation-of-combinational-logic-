@@ -23,11 +23,11 @@ Hardware – PCs, Cyclone II , USB flasher
 5.Create university program(VWF) for getting timing diagram.
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
-/*
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: KOWSALYA M
 RegisterNumber:  212222230069
-
+```
 module ex02(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
@@ -39,7 +39,7 @@ assign x4=(~A)&(B)&(C)&(D);
 assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
-*/
+```
 ## Output:
 ## RTL realization:
 ![image](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/921fee7e-c452-49db-a034-3b5731ac6666)
