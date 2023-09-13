@@ -40,15 +40,6 @@ endmodule
 ## RTL realization:
 ![image](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/921fee7e-c452-49db-a034-3b5731ac6666)
 ## Truth table:
-
-
-
-
-
-
-
-
-
 ![R2](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/7c1a0e81-4a43-4395-9949-53d8ef02e61b)
 ## Waveform:
 ![d2](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/96d90011-ab1e-4539-af2d-4020c9c21a41)
