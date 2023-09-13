@@ -23,11 +23,11 @@ Hardware – PCs, Cyclone II , USB flasher
 5.Create university program(VWF) for getting timing diagram.
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
-
+```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: KOWSALYA M
 RegisterNumber:  212222230069
-```
+
 module ex02(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
