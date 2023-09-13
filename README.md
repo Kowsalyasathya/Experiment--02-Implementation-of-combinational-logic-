@@ -4,8 +4,7 @@ Implementation of combinational logic gates
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
- 
+F2=xy’z+x’y’z+w’xy+wx’y+wxy 
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 ## Software – Quartus prime
@@ -40,9 +39,6 @@ endmodule
 ## Output:
 ## RTL realization:
 ![image](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/921fee7e-c452-49db-a034-3b5731ac6666)
-
-
-
 ## Truth table:
 ![R2](https://github.com/Kowsalyasathya/Experiment--02-Implementation-of-combinational-logic-/assets/118671457/7c1a0e81-4a43-4395-9949-53d8ef02e61b)
 ## Waveform:
